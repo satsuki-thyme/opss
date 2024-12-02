@@ -4,6 +4,7 @@
 - text/001.txt: 食欲の行方
 - text/003.txt: 諏訪のデルタ
 - text/004.txt: クリスマス
+- text/005.txt: 転換点
 
 ### その他
 - etc/media-published.yml: 公開先メディア
