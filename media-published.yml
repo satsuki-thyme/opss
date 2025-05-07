@@ -1,15 +1,20 @@
-- item: 009
+- item: 010
   titel: 
   media:
     - 
 
-- item: 008
-  titel: 見知らぬおじさん
+- item: 009
+  titel: 「アイデアのつくり方」について
   media:
     - koyoku（https://x.com/koyoku365559）さんの本
 
+- item: 008
+  titel: ミミズク
+  media:
+    - カクヨム
+
 - item: 007
-  titel: 最近ハマっているもの
+  titel: 最近ハマったこと
   media:
     - koyoku（https://x.com/koyoku365559）さんの本
 

@@ -6,8 +6,9 @@
 - text/004.txt: クリスマス
 - text/005.txt: 転換点
 - text/006.txt: 切手
-- text/007.txt: 最近ハマっているもの
-- text/008.txt: おじさんとの生活
+- text/007.txt: ハマっているもの
+- text/008.txt: ミミズク
+- text/009.txt: 「アイデアのつくり方」について
 
 ### その他
 - media-published.yml: 公開先メディア
