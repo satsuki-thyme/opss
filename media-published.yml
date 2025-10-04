@@ -1,49 +1,83 @@
-- item: 010
+- item: 012
   titel: 
-  media:
-    - 
+  submission:
+    - item:
+      media: 
+      date: 
+
+- item: 011
+  titel: NO.5  とり「なんじやあれ」 #企画部 #第2回リレー小説
+  submission:
+    - item:
+      media: LINEオプチャ「小説制作しよう」サブルーム「企画に参加しよう」企画「第2回リレー小説」
+      date: 
+
+- item: 010
+  titel: NO.1  とり「なんじやあれ」 #企画部 #第2回リレー小説
+  submission:
+    - item:
+      media: LINEオプチャ「小説制作しよう」サブルーム「企画に参加しよう」企画「第2回リレー小説」
+      date: 2025年08月04日
 
 - item: 009
   titel: 「アイデアのつくり方」について
-  media:
-    - koyoku（https://x.com/koyoku365559）さんの本
+  submission:
+    - item:
+      media: koyoku（https://x.com/koyoku365559）さんの本
+      date: 2025年05月08日
 
 - item: 008
   titel: ミミズク
-  media:
-    - カクヨム
+  submission:
+    - item:
+      media: カクヨム
+      date: 2025年05月06日
 
 - item: 007
   titel: 最近ハマったこと
-  media:
-    - koyoku（https://x.com/koyoku365559）さんの本
+  submission:
+    - item:
+      media: koyoku（https://x.com/koyoku365559）さんの本
+      date: 2025年05月08日
 
 - item: 006
   titel: 切手
-  media:
-    - LINEオプチャ「小説制作しよう」サブルーム「企画に参加しよう」企画「書きだし祭り2025春」
+  submission:
+    - item:
+      media: LINEオプチャ「小説制作しよう」サブルーム「企画に参加しよう」企画「書きだし祭り2025春」
+      date: 2025年05月26日
 
 - item: 005
   titel: 転換点
-  media:
-    - 
+  submission:
+    - item:
+      media: 
+      date: 
 
 - item: 004
   titel: クリスマス
-  media:
-    - LINEオプチャ「小説制作しよう」ノート
+  submission:
+    - item:
+      media: LINEオプチャ「小説制作しよう」ノート
+      date: 2024年11月27日
 
 - item: 003
   titel: 諏訪のデルタ
-  media:
-    - 
+  submission:
+    - item:
+      media: 
+      date: 
 
 - item: 002
   titel: 
-  media:
-    - 
+  submission:
+    - item:
+      media: 
+      date: 
 
 - item: 001
   titel: 食欲の行方
-  media:
-    - 
+  submission:
+    - item:
+      media: 
+      date: 
