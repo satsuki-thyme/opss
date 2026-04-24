@@ -4,16 +4,16 @@
 
 ### 本文
 
-- text/001.txt: 食欲の行方
-- text/003.txt: 諏訪のデルタ
-- text/004.txt: クリスマス
-- text/005.txt: 転換点
-- text/006.txt: 切手
-- text/007.txt: ハマっているもの
-- text/008.txt: ミミズク
-- text/009.txt: 「アイデアのつくり方」について
-- text/010.txt: NO.1  とり「なんじやあれ」 #企画部 #第2回リレー小説
-- text/011.txt: NO.5  とり「なんじやあれ」 #企画部 #第2回リレー小説
+- text/tex-001.txt: 食欲の行方
+- text/tex-003.txt: 諏訪のデルタ
+- text/tex-004.txt: クリスマス
+- text/tex-005.txt: 転換点
+- text/tex-006.txt: 切手
+- text/tex-007.txt: ハマっているもの
+- text/tex-008.txt: ミミズク
+- text/tex-009.txt: 「アイデアのつくり方」について
+- text/tex-010.txt: NO.1  とり「なんじやあれ」 #企画部 #第2回リレー小説
+- text/tex-011.txt: NO.5  とり「なんじやあれ」 #企画部 #第2回リレー小説
 
 ### その他
 
