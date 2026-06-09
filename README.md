@@ -14,6 +14,7 @@
 - ssop/009/tex-009.txt: 「アイデアのつくり方」について
 - ssop/010/tex-010.txt: NO.1  とり「なんじやあれ」 #企画部 #第2回リレー小説
 - ssop/011/tex-011.txt: NO.5  とり「なんじやあれ」 #企画部 #第2回リレー小説
+- ssop/012/tex-012.txt: タイトル未定
 
 ### その他
 
@@ -21,3 +22,4 @@
 - ssop/002/002-plot.yml:          ssop002 プロット
 - ssop/003/003-plot.md:           ssop003 諏訪のデルタ 設定・プロット・その他
 - ssop/011/011-thinking-notes.md: ssop011 思考ノート
+- ssop/012/012-thinking-notes.md: ssop012 思考ノート
