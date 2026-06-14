@@ -1,228 +1,239 @@
 - 🟥 scene: 1
   scene descriptor: 居間での会話
+  scene gist:
+    - scene gist item: 地図帳
+    - scene gist item: 父が虐めのこと
+    - scene gist item: クラスメートとは趣味が合わなくて仲良くなれていないのが現実 => 中学生女子の趣味とは🟩ntt🟩
+    - scene gist item: 自分の趣味は誰にも言えない
+    - scene gist item: 友達を作りたいとは思っている　両親に報いたいし
+    - scene gist item: 主人公の笑みはいつからか温度のないものに感じられていた
+
   scene configuration:
 
-    scene gist:
-      - scene gist item: 
-
     scene meaning of the scene:
-      - scene meaning item: 
+      - scene meaning item: 主人公の事情説明、欲求の提示
 
     scene interest:
-      - scene interest item: 
+      - scene interest item: 主人公の重い状況
 
     scene matters of desire:
-      - scene desire dn: 
-        scene desire: 
+      - scene desire dn: 主人公
+        scene desire: 本当のことは言いたくない
         scene conflict:
-          - scene conflict dn: 
-            scene conflict desire: 
-        scene risk: 
-        scene results: 
-        scene gap: 
+          - scene conflict dn: 父
+            scene conflict desire: 本当のところが知りたい
+        scene risk: 本当のことを知られては心配させてしまう
+        scene results: 隠しとおす
+        scene gap: 悟られ
 
     scene value change:
-      - scene value dn: 
-        scene value: 
-        scene change: .
+      - scene value dn: 主人公
+        scene value: 現実を知られたくない
+        scene change: .--- \ .----
 
     scene unpredictability of the end:
-      - scene unpredictability item: 
+      - scene unpredictability item: 主人公の趣味とは
 
   scene elements:
 
 - 🟥 scene: 2
-  scene descriptor: 自室で異世界を
+  scene descriptor: 母が受け取った荷物
+  scene gist:
+    - scene gist item: 荷物を母が受け取り、誰からかと問うと濁される
+
   scene configuration:
 
-    scene gist:
-      - scene gist item: 
-
     scene meaning of the scene:
-      - scene meaning item: 
+      - scene meaning item: 母の隠し事の伏線
 
     scene interest:
-      - scene interest item: 
+      - scene interest item: 母の不審で意味深な様子
 
     scene matters of desire:
-      - scene desire dn: 
-        scene desire: 
+      - scene desire dn: 母
+        scene desire: 荷物を知られたくない
         scene conflict:
-          - scene conflict dn: 
-            scene conflict desire: 
-        scene risk: 
-        scene results: 
-        scene gap: 
+          - scene conflict dn: 主人公
+            scene conflict desire: 興味がある
+        scene risk: 知られたら軽蔑されるかも
+        scene results: 知られない
+        scene gap: 勘繰られている
 
     scene value change:
-      - scene value dn: 
-        scene value: 
-        scene change: .
+      - scene value dn: 母
+        scene value: 知られたくない
+        scene change: .--- / --
 
     scene unpredictability of the end:
-      - scene unpredictability item: 
+      - scene unpredictability item: 母の荷物とは
 
   scene elements:
 
 - 🟥 scene: 3
-  scene descriptor: 学校の廊下での出来事
+  scene descriptor: 自室で異世界を
+  scene gist:
+    - scene gist item: 歴史
+
   scene configuration:
 
-    scene gist:
-      - scene gist item: 
-
     scene meaning of the scene:
-      - scene meaning item: 
+      - scene meaning item: 主人公の秘密の提示
 
     scene interest:
-      - scene interest item: 
+      - scene interest item: 意識しすぎな主人公
 
     scene matters of desire:
-      - scene desire dn: 
-        scene desire: 
+      - scene desire dn: 主人公
+        scene desire: 誰にも趣味を知られたくない
         scene conflict:
-          - scene conflict dn: 
-            scene conflict desire: 
-        scene risk: 
-        scene results: 
-        scene gap: 
+          - scene conflict dn: クラスメートや家族
+            scene conflict desire: 秘密を知ろうとしている気がする
+        scene risk: 知られれば馬鹿にされる
+        scene results: 不安が残る
+        scene gap: null
 
     scene value change:
-      - scene value dn: 
-        scene value: 
-        scene change: .
+      - scene value dn: 主人公
+        scene value: 趣味を知られるのが怖い
+        scene change: .--- - .----
+        scene value note: よけいに怖くなってくる
 
     scene unpredictability of the end:
-      - scene unpredictability item: 
+      - scene unpredictability item: 主人公の趣味はバレるのか
 
   scene elements:
 
 - 🟥 scene: 4
-  scene descriptor: 自室での微かな葛藤
+  scene descriptor: 学校の廊下での出来事
+  scene gist:
+    - scene gist item: ノートを拾われる　ノートは筆記面を上にして開いている
+    - scene gist item: ハンカチで丁寧に拭いて返される
+
   scene configuration:
 
-    scene gist:
-      - scene gist item: 
-
     scene meaning of the scene:
-      - scene meaning item: 
+      - scene meaning item: 事件の発生
 
     scene interest:
-      - scene interest item: 
+      - scene interest item: バレたかもしれない
 
     scene matters of desire:
-      - scene desire dn: 
-        scene desire: 
+      - scene desire dn: 主人公
+        scene desire: バレたくない
         scene conflict:
-          - scene conflict dn: 
-            scene conflict desire: 
-        scene risk: 
-        scene results: 
-        scene gap: 
+          - scene conflict dn: 相手役
+            scene conflict desire: 秘密を暴こうとしているかもしれないという主人公の思い
+        scene risk: バレたら馬鹿にされる
+        scene results: ハンカチで拭いて返される
+        scene gap: 意味が分からない
 
     scene value change:
-      - scene value dn: 
-        scene value: 
-        scene change: .
+      - scene value dn: 主人公
+        scene value: バレたくない
+        scene change: .--- \ .----
+        scene value note: 謎が生まれる
 
     scene unpredictability of the end:
-      - scene unpredictability item: 
+      - scene unpredictability item: バレたのかどうか
 
   scene elements:
 
 - 🟥 scene: 5
-  scene descriptor: 社会の時間に
+  scene descriptor: 自室での微かな葛藤
+  scene gist:
+    - scene gist item: 友達になりたいけど声を掛けるのは諦めよう
+    - scene gist item: 急に話し掛けたら変だと思われる、迷惑がられる、拒絶されるのが怖い
+
   scene configuration:
 
-    scene gist:
-      - scene gist item: 
-
     scene meaning of the scene:
-      - scene meaning item: 
+      - scene meaning item: 勇気が引っ込む
 
     scene interest:
-      - scene interest item: 
+      - scene interest item: 懊悩
 
     scene matters of desire:
-      - scene desire dn: 
-        scene desire: 
+      - scene desire dn: 主人公
+        scene desire: 親切にされたし友達になりたい　なれるかも
         scene conflict:
-          - scene conflict dn: 
-            scene conflict desire: 
-        scene risk: 
-        scene results: 
-        scene gap: 
+          - scene conflict dn: 相手役
+            scene conflict desire: 馬鹿にされるかも
+        scene risk: 馬鹿にされたら立ち直れない
+        scene results: 諦める
+        scene gap: 諦めきれない思いの欠片
 
     scene value change:
-      - scene value dn: 
-        scene value: 
-        scene change: .
+      - scene value dn: 主人公
+        scene value: 友達になりたい
+        scene change: .--- \ .----
+        scene value note: 友達にはなれない……たぶん……
 
     scene unpredictability of the end:
-      - scene unpredictability item: 
+      - scene unpredictability item: 心残りな部分がどうなるのか
 
   scene elements:
 
 - 🟥 scene: 6
-  scene descriptor: 団欒の食事で
+  scene descriptor: 社会の時間に
+  scene gist:
+    - scene gist item: 目が合う
+
   scene configuration:
 
-    scene gist:
-      - scene gist item: 
-
     scene meaning of the scene:
-      - scene meaning item: 
+      - scene meaning item: 相手役は知っているかも
 
     scene interest:
-      - scene interest item: 
+      - scene interest item: 相手役は知っているかも
 
     scene matters of desire:
-      - scene desire dn: 
-        scene desire: 
+      - scene desire dn: null
+        scene desire: null
         scene conflict:
-          - scene conflict dn: 
-            scene conflict desire: 
-        scene risk: 
-        scene results: 
-        scene gap: 
+          - scene conflict dn: null
+            scene conflict desire: null
+        scene risk: null
+        scene results: null
+        scene gap: null
 
     scene value change:
-      - scene value dn: 
-        scene value: 
-        scene change: .
+      - scene value dn: 主人公
+        scene value: もし知っていてあの態度なら
+        scene change: .--- / .+
 
     scene unpredictability of the end:
-      - scene unpredictability item: 
+      - scene unpredictability item: 相手役は知っているのか
 
   scene elements:
 
 - 🟥 scene: 7
-  scene descriptor: 自室での葛藤
+  scene descriptor: 団欒の食卓で
+  scene gist:
+    - scene gist item: 母が小説を書いていると話す　R18BL
+    - scene gist item: 母の必死の形相
+
   scene configuration:
 
-    scene gist:
-      - scene gist item: 
-
     scene meaning of the scene:
-      - scene meaning item: 
+      - scene meaning item: エンパワーメント
 
     scene interest:
-      - scene interest item: 
+      - scene interest item: 母の必死の様子
 
     scene matters of desire:
-      - scene desire dn: 
-        scene desire: 
+      - scene desire dn: 母
+        scene desire: 受け入れてほしい
         scene conflict:
-          - scene conflict dn: 
-            scene conflict desire: 
-        scene risk: 
-        scene results: 
-        scene gap: 
+          - scene conflict dn: 主人公と父
+            scene conflict desire: 軽蔑されるかもしれない
+        scene risk: 軽蔑される
+        scene results: 受け入れられる
+        scene gap: 主人公の笑みが明るく見えた
 
     scene value change:
-      - scene value dn: 
-        scene value: 
-        scene change: .
+      - scene value dn: 主人公
+        scene value: 勇気
+        scene change: .--- / .+
 
     scene unpredictability of the end:
       - scene unpredictability item: 
@@ -230,134 +241,70 @@
   scene elements:
 
 - 🟥 scene: 8
-  scene descriptor: 
+  scene descriptor: 自室での葛藤
+  scene gist:
+    - scene gist item: 急に話し掛けたら変だと思われる、迷惑がられる、拒絶されるのが怖い
+    - scene gist item: 母の勇気を思う
+    - scene gist item: 決心する
+
   scene configuration:
 
-    scene gist:
-      - scene gist item: 
-
     scene meaning of the scene:
-      - scene meaning item: 
+      - scene meaning item: 静かな決心
 
     scene interest:
-      - scene interest item: 
+      - scene interest item: 明るいビジョン
 
     scene matters of desire:
-      - scene desire dn: 
-        scene desire: 
+      - scene desire dn: 主人公
+        scene desire: 勇気を出したい
         scene conflict:
-          - scene conflict dn: 
-            scene conflict desire: 
-        scene risk: 
-        scene results: 
-        scene gap: 
+          - scene conflict dn: 馬鹿にしてくるかもしれない相手役
+            scene conflict desire: さげすみ
+        scene risk: 決心できない
+        scene results: 決心する
+        scene gap: なし
 
     scene value change:
-      - scene value dn: 
-        scene value: 
-        scene change: .
+      - scene value dn: 主人公
+        scene value: 決心
+        scene change: .+ / .+++++
 
     scene unpredictability of the end:
-      - scene unpredictability item: 
+      - scene unpredictability item: 結果はどうなるのか
 
   scene elements:
 
-- 🟥 scene: 
-  scene descriptor: 
+- 🟥 scene: 9
+  scene descriptor: 登校
+  scene gist:
+    - scene gist item: 出掛けの言葉「お母さん、ありがとう」
+
   scene configuration:
 
-    scene gist:
-      - scene gist item: 
-
     scene meaning of the scene:
-      - scene meaning item: 
+      - scene meaning item: 加速して投げ放つ
 
     scene interest:
-      - scene interest item: 
+      - scene interest item: 主人公の明るい様子
 
     scene matters of desire:
-      - scene desire dn: 
-        scene desire: 
+      - scene desire dn: null
+        scene desire: null
         scene conflict:
-          - scene conflict dn: 
-            scene conflict desire: 
-        scene risk: 
-        scene results: 
-        scene gap: 
+          - scene conflict dn: null
+            scene conflict desire: null
+        scene risk: null
+        scene results: null
+        scene gap: null
 
     scene value change:
-      - scene value dn: 
-        scene value: 
-        scene change: .
+      - scene value dn: 母
+        scene value: 娘の幸福
+        scene change: .- / .+++++
 
     scene unpredictability of the end:
-      - scene unpredictability item: 
-
-  scene elements:
-
-- 🟥 scene: 
-  scene descriptor: 
-  scene configuration:
-
-    scene gist:
-      - scene gist item: 
-
-    scene meaning of the scene:
-      - scene meaning item: 
-
-    scene interest:
-      - scene interest item: 
-
-    scene matters of desire:
-      - scene desire dn: 
-        scene desire: 
-        scene conflict:
-          - scene conflict dn: 
-            scene conflict desire: 
-        scene risk: 
-        scene results: 
-        scene gap: 
-
-    scene value change:
-      - scene value dn: 
-        scene value: 
-        scene change: .
-
-    scene unpredictability of the end:
-      - scene unpredictability item: 
-
-  scene elements:
-
-- 🟥 scene: 
-  scene descriptor: 
-  scene configuration:
-
-    scene gist:
-      - scene gist item: 
-
-    scene meaning of the scene:
-      - scene meaning item: 
-
-    scene interest:
-      - scene interest item: 
-
-    scene matters of desire:
-      - scene desire dn: 
-        scene desire: 
-        scene conflict:
-          - scene conflict dn: 
-            scene conflict desire: 
-        scene risk: 
-        scene results: 
-        scene gap: 
-
-    scene value change:
-      - scene value dn: 
-        scene value: 
-        scene change: .
-
-    scene unpredictability of the end:
-      - scene unpredictability item: 
+      - scene unpredictability item: 結果がどうなるのか
 
   scene elements:
 
