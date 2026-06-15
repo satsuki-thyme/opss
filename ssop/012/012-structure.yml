@@ -36,6 +36,92 @@
 
   scene elements:
 
+    - 🟧 beat group: 
+      beat contents:
+
+        - 🟨 narration:
+          beat descriptor: オープニング
+
+          beat performance:
+
+            - 部屋の描写
+            - 居間で読書　主人公と父
+            - 母はテレビ
+
+
+
+        - 🟨 beat:
+          beat descriptor: 父の声掛け
+          beat performance:
+
+            - beat action:
+              - beat dn: 父
+                beat tone: 気遣い
+                beat activity: 主人公に声を掛ける
+
+            - beat reaction:
+              - beat dn: 主人公
+                beat tone: 何が言いたいか気づいて気が進まない
+                beat activity: 応える
+
+
+
+        - 🟨 narration:
+          beat descriptor: 小学校の頃
+          beat performance:
+            - 虐め
+            - 引っ越し
+
+
+
+        - 🟨 beat:
+          beat descriptor: 本題
+          beat performance:
+
+            - beat action:
+              - beat dn: 父
+                beat tone: 気を遣って婉曲的に
+                beat activity: 学校生活はどうかと尋ねる
+
+            - beat reaction:
+              - beat dn: 主人公
+                beat tone: 言いにくい
+                beat activity: 誤魔化す
+
+
+
+        - 🟨 narration:
+          beat descriptor: 主人公の色褪せた笑顔
+          beat performance:
+            - みんなの趣味には興味がない
+            - 自分の趣味は言えない、馬鹿にされる
+            - 虐めのなかで逃げ込んだ趣味は内面的だった
+
+
+
+        - 🟨 beat:
+          beat descriptor: 余計気になる
+          beat performance:
+
+            - beat action:
+              - beat dn: 父
+                beat tone: おっかなびっくり、もう一歩踏み込む
+                beat activity: 前みたいなことはないのか
+
+            - beat reaction:
+              - beat dn: 主人公
+                beat tone: 穏やかな拒絶
+                beat activity: 気にしないで大丈夫だから
+
+
+
+        - 🟨 narration:
+          beat descriptor: 秘密
+          beat performance:
+            - 学校の本当のことを言えば趣味も言うことになる
+
+
+
 - 🟥 scene: 2
   scene descriptor: 母が受け取った荷物
   scene gist:
@@ -68,6 +154,55 @@
       - scene unpredictability item: 母の荷物とは
 
   scene elements:
+
+        - 🟨 narration:
+          beat descriptor: 宅配便
+          beat performance:
+            - チャイム
+            - 祖父母からなら食べ物だ
+            - 少しして戻ってくる母は荷物を持っていない
+
+
+
+        - 🟨 beat:
+          beat descriptor: 興味
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 気軽
+                beat activity: 何が届いたか尋ねる
+
+            - beat reaction:
+              - beat dn: 母
+                beat tone: ごまかし
+                beat activity: なんでもない
+
+
+
+        - 🟨 narration:
+          beat descriptor: 気づき
+          beat performance:
+            - 気づき
+            - 微妙な空気
+
+
+
+        - 🟨 beat:
+          beat descriptor: 念押し
+          beat performance:
+
+            - beat action:
+              - beat dn: 母
+                beat tone: 誤魔化しの蛇足
+                beat activity: 同窓会の役員だから
+
+            - beat reaction:
+              - beat dn: 主人公
+                beat tone: 隠したいのだと確信
+                beat activity: へぇそうなの――聞いたことがない
+
+
 
 - 🟥 scene: 3
   scene descriptor: 自室で異世界を
@@ -103,6 +238,61 @@
 
   scene elements:
 
+        - 🟨 narration:
+          beat descriptor: 自室スタート
+          beat performance:
+            - 自室描写
+            - 疲れた様子
+
+
+
+        - 🟨 beat:
+          beat descriptor: ため息
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 困り果てる
+                beat activity: どうすればいいんだろう
+
+            - beat reaction:
+              - beat dn: 
+                beat tone: 
+                beat activity: 誰も答えてはくれない、事情を知って答えられても困るというもの
+
+
+
+        - 🟨 narration:
+          beat descriptor: ノート
+          beat performance:
+            - 鞄からノートを取り出す
+            - 笑み
+            - 大切そうに開く
+            - しばらく眺めてため息
+
+
+
+        - 🟨 beat:
+          beat descriptor: やっぱり……
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: バンジージャンプを拒むような
+                beat activity: こんなの誰にも見せられない
+
+
+
+        - 🟨 narration:
+          beat descriptor: ノートの正体
+          beat performance:
+            - 架空世界の歴史
+            - 群雄割拠のなかの輝かしい英雄たち
+            - ため息
+            - 眺めているうちに引き込まれていく
+
+
+
 - 🟥 scene: 4
   scene descriptor: 学校の廊下での出来事
   scene gist:
@@ -136,7 +326,7 @@
     scene unpredictability of the end:
       - scene unpredictability item: バレたのかどうか
 
-  scene elements:
+  scene elements: 🟧🟧🟧 work location 🟧🟧🟧
 
 - 🟥 scene: 5
   scene descriptor: 自室での微かな葛藤
