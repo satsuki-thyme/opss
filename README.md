@@ -18,9 +18,9 @@
 
 ### その他
 
-- media-published.yml:            公開先メディア
-- ssop/002/002-plot.yml:          ssop002 プロット
-- ssop/003/003-plot.md:           ssop003 諏訪のデルタ 設定・プロット・その他
+- media-published.yml: .......... 公開先メディア
+- ssop/002/002-plot.yml: ........ ssop002 プロット
+- ssop/003/003-plot.md: ......... ssop003 諏訪のデルタ 設定・プロット・その他
 - ssop/011/011-thinking-notes.md: ssop011 思考ノート
-- ssop/012/012-structure.yml:     ssop012 構造体
+- ssop/012/012-structure.yml: ... ssop012 構造体
 - ssop/012/012-thinking-notes.md: ssop012 思考ノート
